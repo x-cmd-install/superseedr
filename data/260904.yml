@@ -1,11 +1,13 @@
 about:
-  description: A BitTorrent Client in your Terminal
+  description:
+  |
+    A BitTorrent Client in your Terminal
   license: GPL-3.0
   homepage: 
   head: a83e390
   archived: false
   latestVersion: v1.0.14
-  collectedAt: 2026-09-04T05:01:55Z
+  collectedAt: 2026-09-04T19:57:41Z
 timeline:
   created: 2025-10-18
   lastCommit: 2026-08-31
@@ -16,7 +18,7 @@ popularity:
   fork: 25
   release: 58
   contributor: 5
-  pullRequest: 80
+  pullRequest: 214
   issue: 111
 language:
   Rust: 6630787
@@ -26,7 +28,7 @@ language:
   Objective-C: 14368
   Inno Setup: 8894
   Dockerfile: 2204
-totalLine: 7069315
+totalBytes: 7069315
 recent:
   last30d:
     since: 2026-08-05
@@ -36,6 +38,14 @@ recent:
     closedIssue: 0
     openIssue: 13
     commit: 98
+  last60d:
+    since: 2026-07-06
+    release: 3
+    mergedPR: 19
+    openPR: 10
+    closedIssue: 2
+    openIssue: 16
+    commit: 223
   last90d:
     since: 2026-06-06
     release: 5
@@ -60,3 +70,21 @@ recent:
     closedIssue: 87
     openIssue: 24
     commit: 1725
+  last720d:
+    since: 2024-09-14
+    release: 58
+    mergedPR: 134
+    openPR: 10
+    closedIssue: 87
+    openIssue: 24
+    commit: 1895
+total:
+  release: 58
+  mergedPR: 134
+  openPR: 10
+  closedIssue: 87
+  openIssue: 24
+  commit: 1895
+---
+---
+
