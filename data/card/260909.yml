@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.14"
   latestRelease: "v1.0.14"
   latestPrerelease: "v0.9.4"
-  collectedAt: 2026-09-09T04:58:27Z
+  collectedAt: 2026-09-09T19:08:13Z
 timeline:
   created: 2025-10-18
   lastCommit: 2026-08-31
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-30
   lastPrerelease: 2025-10-24
 popularity:
-  star: 656
+  star: 657
   watcher: 4
   fork: 25
   release: 58
@@ -89,7 +89,7 @@ total:
   commit: 1895
 ---
 path: /home/runner/.x-repo/github.com/Jagalite/superseedr
-collectedAt: 2026-09-09T04:58:31Z
+collectedAt: 2026-09-09T19:08:17Z
 loc:
   Rust:
     code: 166717
