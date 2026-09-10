@@ -1,0 +1,51 @@
+- repo: aur
+  srcname: superseedr
+  binname: superseedr
+  visiblename: superseedr
+  version: 1.0.14
+  origversion: 1.0.14-1
+  status: newest
+  summary: A BitTorrent Client in your Terminal
+  maintainers:
+    - txtsd@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: aur
+  srcname: superseedr-bin
+  binname: superseedr-bin
+  visiblename: superseedr-bin
+  version: 1.0.14
+  origversion: 1.0.14-1
+  status: newest
+  summary: A BitTorrent Client in your Terminal
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: homebrew
+  srcname: superseedr
+  visiblename: superseedr
+  version: 1.0.14
+  origversion: null
+  status: newest
+  summary: BitTorrent Client in your Terminal
+- repo: homebrew
+  srcname: superseedr
+  visiblename: superseedr
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: BitTorrent Client in your Terminal
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: superseedr
+  binname: superseedr
+  visiblename: superseedr
+  version: 1.0.14
+  origversion: 1.0.14_1
+  status: newest
+  summary: BitTorrent client in your terminal
+  maintainers:
+    - karyan40024@gmail.com
+  licenses:
+    - GPL-3.0-or-later
