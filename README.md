@@ -12,6 +12,18 @@ A BitTorrent Client in your Terminal
 x install superseedr
 ```
 
+## Code insight
+
+Total: **178,296** lines of code across **239** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 166,717 | 1,983 | 16,222 | 158 |
+| Python | 7,899 | 38 | 1,214 | 46 |
+| PowerShell | 1,209 | 10 | 105 | 2 |
+| Sh | 714 | 121 | 177 | 15 |
+| Json | 618 | 0 | 0 | 18 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Jagalite/superseedr>
@@ -22,6 +34,25 @@ x install superseedr
 - **Latest**: `v1.0.14` (2026-08-30)
 - **Last commit**: 2026-08-31
 - **Assets in release**: 14
+
+## Popularity
+
+- **Stars**: 656 · **Forks**: 25 · **Open issues**: 113 · **Contributors**: 5
+
+## Totals (cumulative)
+
+- **Releases**: 58 · **Merged PRs**: 142 · **Open PRs**: 10 · **Closed issues**: 89 · **Open issues**: 24 · **Commits**: 1895
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 17 | 9 | 1 | 14 | 68 |
+| last60d | 2026-07-12 | 3 | 23 | 10 | 3 | 15 | 179 |
+| 90d | 2026-06-12 | 5 | 30 | 10 | 8 | 18 | 266 |
+| last180d | 2026-03-14 | 11 | 42 | 10 | 19 | 19 | 630 |
+| 360d | 2025-09-15 | 58 | 142 | 10 | 89 | 24 | 1725 |
+| last720d | 2024-09-20 | 58 | 142 | 10 | 89 | 24 | 1895 |
 
 ## Release assets
 
@@ -42,33 +73,14 @@ x install superseedr
 | [superseedr_v1.0.14_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_linux-arm64.tar.gz) | 6.6 MiB | `native/linux/arm64` |
 | [superseedr_v1.0.14_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_x64_en-US.msi) | 7.8 MiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 656 · **Forks**: 25 · **Open issues**: 113 · **Contributors**: 5
+Reported by **5** distros on [repology.org](https://repology.org/project/superseedr). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 58 · **Merged PRs**: 142 · **Open PRs**: 10 · **Closed issues**: 89 · **Open issues**: 24 · **Commits**: 1895
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 17 | 9 | 1 | 14 | 68 |
-| 90d | 2026-06-12 | 5 | 30 | 10 | 8 | 18 | 266 |
-| 360d | 2025-09-15 | 58 | 142 | 10 | 89 | 24 | 1725 |
-
-## Code size
-
-Total: **178,296** lines of code across **239** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 166,717 | 1,983 | 16,222 | 158 |
-| Python | 7,899 | 38 | 1,214 | 46 |
-| PowerShell | 1,209 | 10 | 105 | 2 |
-| Sh | 714 | 121 | 177 | 15 |
-| Json | 618 | 0 | 0 | 18 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.0.14` | ✅ latest |
+| Void | `1.0.14` | ✅ latest |
 
 ## Improve this data
 
@@ -79,4 +91,4 @@ Install metadata for superseedr lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:40:44Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:02:18Z._
