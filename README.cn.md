@@ -4,7 +4,7 @@
 
 A BitTorrent Client in your Terminal
 
-![superseedr](https://repo.x-cmd.io/superseedr.svg)
+![superseedr](https://repo.x-cmd.io/superseedr.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,29 @@ x install superseedr
 - **最新版本**: `v1.0.14` (2026-08-30)
 - **最近提交**: 2026-08-31
 - **Release 含资产**: 14 个
-- **发布时间**: 2026-08-30T00:05:15Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [superseedr-private-v1.0.14-x64-setup.exe](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private-v1.0.14-x64-setup.exe) | 7.0 MiB | `other` |
+| [superseedr-private_v1.0.14_amd64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_amd64.deb) | 8.1 MiB | `runtime/deb/amd64` |
+| [superseedr-private_v1.0.14_arm64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_arm64.deb) | 7.3 MiB | `runtime/deb/arm64` |
+| [superseedr-private_v1.0.14_linux-amd64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_linux-amd64.tar.gz) | 6.7 MiB | `native/linux/x64` |
+| [superseedr-private_v1.0.14_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_linux-arm64.tar.gz) | 6.2 MiB | `native/linux/arm64` |
+| [superseedr-private_v1.0.14_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_x64_en-US.msi) | 7.4 MiB | `other` |
+| [superseedr-v1.0.14-private-universal-macos.pkg](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-v1.0.14-private-universal-macos.pkg) | 13.3 MiB | `native/darwin/x64` |
+| [superseedr-v1.0.14-universal-macos.pkg](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-v1.0.14-universal-macos.pkg) | 14.1 MiB | `native/darwin/x64` |
+| [superseedr-v1.0.14-x64-setup.exe](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-v1.0.14-x64-setup.exe) | 7.3 MiB | `other` |
+| [superseedr_v1.0.14_amd64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_amd64.deb) | 8.6 MiB | `runtime/deb/amd64` |
+| [superseedr_v1.0.14_arm64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_arm64.deb) | 7.7 MiB | `runtime/deb/arm64` |
+| [superseedr_v1.0.14_linux-amd64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_linux-amd64.tar.gz) | 7.1 MiB | `native/linux/x64` |
+| [superseedr_v1.0.14_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_linux-arm64.tar.gz) | 6.6 MiB | `native/linux/arm64` |
+| [superseedr_v1.0.14_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_x64_en-US.msi) | 7.8 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 657 · **Fork**: 25 · **开放 issue**: 113 · **贡献者**: 5
+- **Star**: 656 · **Fork**: 25 · **开放 issue**: 113 · **贡献者**: 5
 
 ## 累计统计
 
@@ -61,4 +79,4 @@ superseedr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:56:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:40:44Z._

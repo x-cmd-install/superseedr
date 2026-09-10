@@ -22,11 +22,29 @@ x install superseedr
 - **Latest**: `v1.0.14` (2026-08-30)
 - **Last commit**: 2026-08-31
 - **Assets in release**: 14
-- **Published**: 2026-08-30T00:05:15Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [superseedr-private-v1.0.14-x64-setup.exe](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private-v1.0.14-x64-setup.exe) | 7.0 MiB | `other` |
+| [superseedr-private_v1.0.14_amd64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_amd64.deb) | 8.1 MiB | `runtime/deb/amd64` |
+| [superseedr-private_v1.0.14_arm64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_arm64.deb) | 7.3 MiB | `runtime/deb/arm64` |
+| [superseedr-private_v1.0.14_linux-amd64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_linux-amd64.tar.gz) | 6.7 MiB | `native/linux/x64` |
+| [superseedr-private_v1.0.14_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_linux-arm64.tar.gz) | 6.2 MiB | `native/linux/arm64` |
+| [superseedr-private_v1.0.14_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_x64_en-US.msi) | 7.4 MiB | `other` |
+| [superseedr-v1.0.14-private-universal-macos.pkg](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-v1.0.14-private-universal-macos.pkg) | 13.3 MiB | `native/darwin/x64` |
+| [superseedr-v1.0.14-universal-macos.pkg](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-v1.0.14-universal-macos.pkg) | 14.1 MiB | `native/darwin/x64` |
+| [superseedr-v1.0.14-x64-setup.exe](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-v1.0.14-x64-setup.exe) | 7.3 MiB | `other` |
+| [superseedr_v1.0.14_amd64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_amd64.deb) | 8.6 MiB | `runtime/deb/amd64` |
+| [superseedr_v1.0.14_arm64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_arm64.deb) | 7.7 MiB | `runtime/deb/arm64` |
+| [superseedr_v1.0.14_linux-amd64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_linux-amd64.tar.gz) | 7.1 MiB | `native/linux/x64` |
+| [superseedr_v1.0.14_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_linux-arm64.tar.gz) | 6.6 MiB | `native/linux/arm64` |
+| [superseedr_v1.0.14_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_x64_en-US.msi) | 7.8 MiB | `other` |
 
 ## Popularity
 
-- **Stars**: 657 · **Forks**: 25 · **Open issues**: 113 · **Contributors**: 5
+- **Stars**: 656 · **Forks**: 25 · **Open issues**: 113 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -57,8 +75,8 @@ Total: **178,296** lines of code across **239** files in the top 5 languages.
 Install metadata for superseedr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `superseedr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/superseedr.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/superseedr.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:56:02Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:40:44Z._
