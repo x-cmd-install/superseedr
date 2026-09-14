@@ -47,12 +47,12 @@ Total: **178,296** lines of code across **239** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 17 | 9 | 1 | 13 | 33 |
-| last60d | 2026-07-15 | 3 | 22 | 10 | 3 | 15 | 154 |
-| 90d | 2026-06-15 | 5 | 30 | 10 | 7 | 18 | 250 |
-| last180d | 2026-03-17 | 11 | 42 | 10 | 18 | 19 | 595 |
-| 360d | 2025-09-18 | 58 | 142 | 10 | 89 | 24 | 1725 |
-| last720d | 2024-09-23 | 58 | 142 | 10 | 89 | 24 | 1895 |
+| 30d | 2026-08-15 | 1 | 16 | 8 | 1 | 10 | 33 |
+| last60d | 2026-07-16 | 2 | 22 | 10 | 3 | 15 | 154 |
+| 90d | 2026-06-16 | 5 | 30 | 10 | 7 | 18 | 250 |
+| last180d | 2026-03-18 | 11 | 42 | 10 | 18 | 19 | 595 |
+| 360d | 2025-09-19 | 58 | 142 | 10 | 89 | 24 | 1725 |
+| last720d | 2024-09-24 | 58 | 142 | 10 | 89 | 24 | 1895 |
 
 ## Release assets
 
@@ -73,15 +73,6 @@ Total: **178,296** lines of code across **239** files in the top 5 languages.
 | [superseedr_v1.0.14_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_linux-arm64.tar.gz) | 6.6 MiB | `native/linux/arm64` |
 | [superseedr_v1.0.14_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_x64_en-US.msi) | 7.8 MiB | `other` |
 
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/superseedr). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.0.14` | ✅ latest |
-| Void | `1.0.14` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for superseedr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `superseedr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +82,4 @@ Install metadata for superseedr lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:02:12Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:06:59Z._
