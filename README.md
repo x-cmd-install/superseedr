@@ -41,18 +41,18 @@ Total: **178,296** lines of code across **239** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 142 · **Open PRs**: 10 · **Closed issues**: 89 · **Open issues**: 24 · **Commits**: 1895
+- **Releases**: 58 · **Merged PRs**: 142 · **Open PRs**: 11 · **Closed issues**: 89 · **Open issues**: 24 · **Commits**: 1895
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 16 | 8 | 1 | 10 | 33 |
-| last60d | 2026-07-16 | 2 | 22 | 10 | 3 | 15 | 154 |
-| 90d | 2026-06-16 | 5 | 30 | 10 | 7 | 18 | 250 |
-| last180d | 2026-03-18 | 11 | 42 | 10 | 18 | 19 | 595 |
-| 360d | 2025-09-19 | 58 | 142 | 10 | 89 | 24 | 1725 |
-| last720d | 2024-09-24 | 58 | 142 | 10 | 89 | 24 | 1895 |
+| 30d | 2026-08-16 | 1 | 14 | 5 | 1 | 10 | 33 |
+| last60d | 2026-07-17 | 2 | 22 | 11 | 3 | 15 | 154 |
+| 90d | 2026-06-17 | 5 | 30 | 11 | 7 | 18 | 250 |
+| last180d | 2026-03-19 | 11 | 42 | 11 | 18 | 19 | 595 |
+| 360d | 2025-09-20 | 58 | 142 | 11 | 89 | 24 | 1725 |
+| last720d | 2024-09-25 | 58 | 142 | 11 | 89 | 24 | 1895 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for superseedr lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:06:59Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:14:00Z._
