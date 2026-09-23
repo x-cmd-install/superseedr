@@ -4,7 +4,7 @@
 
 A BitTorrent Client in your Terminal
 
-[![x-cmd/install — superseedr Code Quality Monitoring Repo Card](https://repo.x-cmd.io/superseedr.svg?lang=zh)](https://x-cmd.com/install/superseedr)
+[![x-cmd/install — superseedr Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/superseedr.svg?lang=zh)](https://x-cmd.com/install/superseedr)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install superseedr
 
 ## 代码洞察
 
-合计: **178,296** 行代码（覆盖前 5 种语言、共 **239** 个文件）。
+合计: **216,218** 行代码（覆盖前 5 种语言、共 **374** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 166,717 | 1,983 | 16,222 | 158 |
-| Python | 7,899 | 38 | 1,214 | 46 |
-| PowerShell | 1,209 | 10 | 105 | 2 |
-| Sh | 714 | 121 | 177 | 15 |
-| Json | 618 | 0 | 0 | 18 |
+| Rust | 197,353 | 2,450 | 18,426 | 278 |
+| Python | 8,092 | 46 | 1,228 | 48 |
+| JavaScript | 3,033 | 90 | 59 | 23 |
+| TypeScript | 2,464 | 18 | 233 | 4 |
+| Json | 1,941 | 0 | 0 | 21 |
 
 ## 源代码
 
@@ -31,8 +31,8 @@ x install superseedr
 
 ## 发布
 
-- **最新版本**: `v1.0.14` (2026-08-30)
-- **最近提交**: 2026-08-31
+- **最新版本**: `v1.0.15` (2026-09-22)
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 14 个
 
 ## 流行度
@@ -41,37 +41,37 @@ x install superseedr
 
 ## 累计统计
 
-- **发布数**: 58 · **已合并 PR**: 144 · **开放 PR**: 9 · **已关闭 issue**: 89 · **开放 issue**: 24 · **提交数**: 1895
+- **发布数**: 59 · **已合并 PR**: 146 · **开放 PR**: 9 · **已关闭 issue**: 89 · **开放 issue**: 24 · **提交数**: 2035
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 16 | 2 | 1 | 4 | 23 |
-| last60d | 2026-07-24 | 2 | 20 | 8 | 1 | 14 | 151 |
-| 90d | 2026-06-24 | 4 | 31 | 9 | 5 | 17 | 228 |
-| last180d | 2026-03-26 | 11 | 43 | 9 | 18 | 19 | 548 |
-| 360d | 2025-09-27 | 58 | 144 | 9 | 89 | 24 | 1725 |
-| last720d | 2024-10-02 | 58 | 144 | 9 | 89 | 24 | 1895 |
+| 30d | 2026-08-24 | 2 | 18 | 2 | 1 | 4 | 145 |
+| last60d | 2026-07-25 | 3 | 22 | 8 | 1 | 14 | 273 |
+| 90d | 2026-06-25 | 5 | 33 | 9 | 5 | 17 | 350 |
+| last180d | 2026-03-27 | 12 | 45 | 9 | 18 | 19 | 670 |
+| 360d | 2025-09-28 | 59 | 146 | 9 | 89 | 24 | 1847 |
+| last720d | 2024-10-03 | 59 | 146 | 9 | 89 | 24 | 2035 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [superseedr-private-v1.0.14-x64-setup.exe](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private-v1.0.14-x64-setup.exe) | 7.0 MiB | `other` |
-| [superseedr-private_v1.0.14_amd64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_amd64.deb) | 8.1 MiB | `runtime/deb/amd64` |
-| [superseedr-private_v1.0.14_arm64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_arm64.deb) | 7.3 MiB | `runtime/deb/arm64` |
-| [superseedr-private_v1.0.14_linux-amd64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_linux-amd64.tar.gz) | 6.7 MiB | `native/linux/x64` |
-| [superseedr-private_v1.0.14_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_linux-arm64.tar.gz) | 6.2 MiB | `native/linux/arm64` |
-| [superseedr-private_v1.0.14_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-private_v1.0.14_x64_en-US.msi) | 7.4 MiB | `other` |
-| [superseedr-v1.0.14-private-universal-macos.pkg](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-v1.0.14-private-universal-macos.pkg) | 13.3 MiB | `native/darwin/x64` |
-| [superseedr-v1.0.14-universal-macos.pkg](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-v1.0.14-universal-macos.pkg) | 14.1 MiB | `native/darwin/x64` |
-| [superseedr-v1.0.14-x64-setup.exe](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr-v1.0.14-x64-setup.exe) | 7.3 MiB | `other` |
-| [superseedr_v1.0.14_amd64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_amd64.deb) | 8.6 MiB | `runtime/deb/amd64` |
-| [superseedr_v1.0.14_arm64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_arm64.deb) | 7.7 MiB | `runtime/deb/arm64` |
-| [superseedr_v1.0.14_linux-amd64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_linux-amd64.tar.gz) | 7.1 MiB | `native/linux/x64` |
-| [superseedr_v1.0.14_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_linux-arm64.tar.gz) | 6.6 MiB | `native/linux/arm64` |
-| [superseedr_v1.0.14_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.14/superseedr_v1.0.14_x64_en-US.msi) | 7.8 MiB | `other` |
+| [superseedr-private-v1.0.15-x64-setup.exe](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr-private-v1.0.15-x64-setup.exe) | 7.2 MiB | `other` |
+| [superseedr-private_v1.0.15_amd64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr-private_v1.0.15_amd64.deb) | 8.6 MiB | `runtime/deb/amd64` |
+| [superseedr-private_v1.0.15_arm64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr-private_v1.0.15_arm64.deb) | 7.8 MiB | `runtime/deb/arm64` |
+| [superseedr-private_v1.0.15_linux-amd64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr-private_v1.0.15_linux-amd64.tar.gz) | 7.2 MiB | `native/linux/x64` |
+| [superseedr-private_v1.0.15_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr-private_v1.0.15_linux-arm64.tar.gz) | 6.7 MiB | `native/linux/arm64` |
+| [superseedr-private_v1.0.15_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr-private_v1.0.15_x64_en-US.msi) | 7.8 MiB | `other` |
+| [superseedr-v1.0.15-private-universal-macos.pkg](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr-v1.0.15-private-universal-macos.pkg) | 14.1 MiB | `native/darwin/x64` |
+| [superseedr-v1.0.15-universal-macos.pkg](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr-v1.0.15-universal-macos.pkg) | 19.8 MiB | `native/darwin/x64` |
+| [superseedr-v1.0.15-x64-setup.exe](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr-v1.0.15-x64-setup.exe) | 9.3 MiB | `other` |
+| [superseedr_v1.0.15_amd64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr_v1.0.15_amd64.deb) | 12.0 MiB | `runtime/deb/amd64` |
+| [superseedr_v1.0.15_arm64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr_v1.0.15_arm64.deb) | 10.8 MiB | `runtime/deb/arm64` |
+| [superseedr_v1.0.15_linux-amd64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr_v1.0.15_linux-amd64.tar.gz) | 10.2 MiB | `native/linux/x64` |
+| [superseedr_v1.0.15_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr_v1.0.15_linux-arm64.tar.gz) | 9.5 MiB | `native/linux/arm64` |
+| [superseedr_v1.0.15_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.15/superseedr_v1.0.15_x64_en-US.msi) | 11.1 MiB | `other` |
 
 ## 改进这些数据
 
@@ -82,4 +82,4 @@ superseedr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:07:01Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:14:57Z._
