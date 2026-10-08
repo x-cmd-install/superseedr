@@ -47,12 +47,12 @@ Total: **216,218** lines of code across **374** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 4 | 3 | 1 | 0 | 12 |
-| last60d | 2026-08-08 | 2 | 22 | 9 | 4 | 12 | 198 |
-| 90d | 2026-07-09 | 4 | 32 | 10 | 6 | 13 | 313 |
-| last180d | 2026-04-10 | 11 | 45 | 10 | 16 | 17 | 650 |
-| 360d | 2025-10-12 | 59 | 147 | 10 | 92 | 22 | 1847 |
-| last720d | 2024-10-17 | 59 | 147 | 10 | 92 | 22 | 2035 |
+| 30d | 2026-09-08 | 1 | 3 | 3 | 1 | 0 | 12 |
+| last60d | 2026-08-09 | 2 | 22 | 9 | 4 | 12 | 198 |
+| 90d | 2026-07-10 | 4 | 32 | 10 | 6 | 13 | 313 |
+| last180d | 2026-04-11 | 11 | 45 | 10 | 16 | 17 | 650 |
+| 360d | 2025-10-13 | 59 | 147 | 10 | 92 | 22 | 1847 |
+| last720d | 2024-10-18 | 59 | 147 | 10 | 92 | 22 | 2035 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for superseedr lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:59:45Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:10:30Z._
