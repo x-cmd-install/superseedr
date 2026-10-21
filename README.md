@@ -14,12 +14,12 @@ x install superseedr
 
 ## Code insight
 
-Total: **222,699** lines of code across **381** files in the top 5 languages.
+Total: **223,204** lines of code across **385** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 203,768 | 2,546 | 18,667 | 284 |
-| Python | 8,157 | 48 | 1,256 | 49 |
+| Rust | 203,953 | 2,554 | 18,675 | 284 |
+| Python | 8,477 | 56 | 1,291 | 53 |
 | JavaScript | 3,034 | 93 | 59 | 23 |
 | TypeScript | 2,464 | 18 | 233 | 4 |
 | Json | 1,941 | 0 | 0 | 21 |
@@ -32,27 +32,27 @@ Total: **222,699** lines of code across **381** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.16` (2026-10-17)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-20
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 672 · **Forks**: 27 · **Open issues**: 117 · **Contributors**: 5
+- **Stars**: 672 · **Forks**: 27 · **Open issues**: 117 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 152 · **Open PRs**: 12 · **Closed issues**: 96 · **Open issues**: 21 · **Commits**: 2063
+- **Releases**: 60 · **Merged PRs**: 154 · **Open PRs**: 10 · **Closed issues**: 96 · **Open issues**: 21 · **Commits**: 2064
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 7 | 5 | 3 | 1 | 21 |
-| last60d | 2026-08-21 | 3 | 24 | 5 | 7 | 5 | 174 |
-| 90d | 2026-07-22 | 4 | 28 | 11 | 8 | 11 | 297 |
-| last180d | 2026-04-23 | 11 | 49 | 12 | 17 | 16 | 580 |
-| 360d | 2025-10-25 | 58 | 120 | 12 | 94 | 21 | 1747 |
-| last720d | 2024-10-30 | 60 | 152 | 12 | 96 | 21 | 2063 |
+| 30d | 2026-09-21 | 2 | 9 | 3 | 3 | 1 | 22 |
+| last60d | 2026-08-22 | 3 | 26 | 3 | 5 | 4 | 175 |
+| 90d | 2026-07-23 | 4 | 30 | 9 | 8 | 11 | 298 |
+| last180d | 2026-04-24 | 11 | 51 | 10 | 17 | 16 | 581 |
+| 360d | 2025-10-26 | 55 | 122 | 10 | 94 | 21 | 1748 |
+| last720d | 2024-10-31 | 60 | 154 | 10 | 96 | 21 | 2064 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for superseedr lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:00:02Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:48:58Z._
