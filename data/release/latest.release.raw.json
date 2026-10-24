@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7719372,
       "digest": "sha256:ed3e319c554a63c15e82e5405f404ca31effdfbcec6431081b7b3e03d896a463",
-      "download_count": 71,
+      "download_count": 86,
       "created_at": "2026-10-17T23:41:52Z",
       "updated_at": "2026-10-17T23:41:53Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.16/superseedr-private_v1.0.16_linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7152381,
       "digest": "sha256:bd746253569ba8ac054e64a434f48b7b98dd5375200c781e9a413c1a7a0c02e2",
-      "download_count": 64,
+      "download_count": 76,
       "created_at": "2026-10-17T23:41:52Z",
       "updated_at": "2026-10-17T23:41:53Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.16/superseedr-private_v1.0.16_linux-arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 9844052,
       "digest": "sha256:a1921eeb442ed126e8f178c58256017ad3f8472d2a2ce6e68429d2e131b694e2",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-10-17T23:41:52Z",
       "updated_at": "2026-10-17T23:41:53Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.16/superseedr-v1.0.16-x64-setup.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 12721332,
       "digest": "sha256:05a9d474f57a5cc7399d913dc5cc39f808d91d2802f80bc1fe22335ae6eb7664",
-      "download_count": 47,
+      "download_count": 52,
       "created_at": "2026-10-17T23:41:52Z",
       "updated_at": "2026-10-17T23:41:53Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.16/superseedr_v1.0.16_amd64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 10852977,
       "digest": "sha256:2fa56eb4cb361e16d86e7588923914616924811c0514d884a1c06ffe76f8d7fc",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-10-17T23:41:52Z",
       "updated_at": "2026-10-17T23:41:53Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.16/superseedr_v1.0.16_linux-amd64.tar.gz"
