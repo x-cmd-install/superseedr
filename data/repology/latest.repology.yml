@@ -2,9 +2,9 @@
   srcname: superseedr
   binname: superseedr
   visiblename: superseedr
-  version: 1.0.14
-  origversion: 1.0.14-1
-  status: outdated
+  version: 1.0.16
+  origversion: 1.0.16-1
+  status: newest
   summary: A BitTorrent Client in your Terminal
   maintainers:
     - txtsd@aur
