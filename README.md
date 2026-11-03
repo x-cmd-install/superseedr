@@ -37,7 +37,7 @@ Total: **223,204** lines of code across **385** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 679 · **Forks**: 27 · **Open issues**: 120 · **Contributors**: 6
+- **Stars**: 680 · **Forks**: 27 · **Open issues**: 120 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **223,204** lines of code across **385** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 9 | 4 | 3 | 3 | 20 |
-| last60d | 2026-09-03 | 2 | 20 | 6 | 5 | 4 | 38 |
-| 90d | 2026-08-04 | 4 | 31 | 12 | 12 | 10 | 236 |
-| last180d | 2026-05-06 | 10 | 49 | 13 | 22 | 13 | 493 |
-| 360d | 2025-11-07 | 40 | 106 | 13 | 98 | 18 | 1605 |
-| last720d | 2024-11-12 | 60 | 156 | 13 | 101 | 19 | 2064 |
+| 30d | 2026-10-04 | 1 | 9 | 4 | 3 | 3 | 20 |
+| last60d | 2026-09-04 | 2 | 20 | 6 | 5 | 4 | 38 |
+| 90d | 2026-08-05 | 4 | 31 | 12 | 12 | 10 | 236 |
+| last180d | 2026-05-07 | 10 | 49 | 13 | 22 | 13 | 493 |
+| 360d | 2025-11-08 | 40 | 105 | 13 | 98 | 18 | 1605 |
+| last720d | 2024-11-13 | 60 | 156 | 13 | 101 | 19 | 2064 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for superseedr lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:14:18Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:51:05Z._
