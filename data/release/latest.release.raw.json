@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7728382,
       "digest": "sha256:d3781ffa7291cea0874f627b7f02bb2e4964b698e65e7554c0c652bba3ebea6c",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-06T05:07:36Z",
       "updated_at": "2026-11-06T05:07:37Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-private-v1.0.17-x64-setup.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 9874661,
       "digest": "sha256:f616e7a1aeaa97465f89e3df7b52742e8109b5db9affd9b735110c726118f455",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-06T05:07:36Z",
       "updated_at": "2026-11-06T05:07:37Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-v1.0.17-x64-setup.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 12759254,
       "digest": "sha256:f2ef6f95442756244351bec78472c07f48cf7180e835496bfd1d2170502f4a4b",
-      "download_count": 3,
+      "download_count": 19,
       "created_at": "2026-11-06T05:07:36Z",
       "updated_at": "2026-11-06T05:07:37Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_amd64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 10885162,
       "digest": "sha256:fd630e3215b9e29e9aff99917fd74e4b86a076ceecb91bae6a4a260f194f9a70",
-      "download_count": 4,
+      "download_count": 9,
       "created_at": "2026-11-06T05:07:36Z",
       "updated_at": "2026-11-06T05:07:37Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_linux-amd64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 11870208,
       "digest": "sha256:9720d6fce43b4e3d70e99248e5a82faa50e386d4ec9bc922e83865412ad18923",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-06T05:07:36Z",
       "updated_at": "2026-11-06T05:07:37Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_x64_en-US.msi"
@@ -543,5 +543,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/Jagalite/superseedr/tarball/v1.0.17",
   "zipball_url": "https://api.github.com/repos/Jagalite/superseedr/zipball/v1.0.17",
-  "body": "## Standard Builds (Recommended)\r\n* **macOS Universal:** [superseedr-v1.0.17-universal-macos.pkg](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-v1.0.17-universal-macos.pkg)\r\n* **Linux Debian (amd64):** [superseedr_v1.0.17_amd64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_amd64.deb)\r\n* **Linux Debian (arm64):** [superseedr_v1.0.17_arm64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_arm64.deb)\r\n* **Linux Tarball (amd64):** [superseedr_v1.0.17_linux-amd64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_linux-amd64.tar.gz)\r\n* **Linux Tarball (arm64):** [superseedr_v1.0.17_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_linux-arm64.tar.gz)\r\n* **Windows (EXE, no admin):** [superseedr-v1.0.17-x64-setup.exe](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-v1.0.17-x64-setup.exe)\r\n* **Windows (MSI):** [superseedr_v1.0.17_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_x64_en-US.msi)\r\n---\r\n## Private Builds (Advanced)\r\nThese builds do not contain PEX or DHT in the final binary. Not recommended for normal users unless you have privacy requirements.\r\n\r\n* **macOS Universal:** [superseedr-v1.0.17-private-universal-macos.pkg](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-v1.0.17-private-universal-macos.pkg)\r\n* **Linux Debian (amd64):** [superseedr-private_v1.0.17_amd64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-private_v1.0.17_amd64.deb)\r\n* **Linux Debian (arm64):** [superseedr-private_v1.0.17_arm64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-private_v1.0.17_arm64.deb)\r\n* **Linux Tarball (amd64):** [superseedr-private_v1.0.17_linux-amd64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-private_v1.0.17_linux-amd64.tar.gz)\r\n* **Linux Tarball (arm64):** [superseedr-private_v1.0.17_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-private_v1.0.17_linux-arm64.tar.gz)\r\n* **Windows (EXE, no admin):** [superseedr-private-v1.0.17-x64-setup.exe](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-private-v1.0.17-x64-setup.exe)\r\n* **Windows (MSI):** [superseedr-private_v1.0.17_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-private_v1.0.17_x64_en-US.msi)\r\n---\r\n<img width=\"320\" height=\"353\" alt=\"Screenshot 2026-11-05 at 11 37 23 PM\" src=\"https://github.com/user-attachments/assets/a3b1b3b3-a77c-41b3-9a64-5773220c92af\" />\r\n\r\n## Release v1.0.17\r\n### 🚀 New Features\r\n- **Session Receipt**: Show a themed summary at shutdown with final transfer and session statistics, including peer activity.\r\n- **Graph History Controls**: Disable loading and saving network and activity graph history with `persist_graph_history = false`. Live graphs still work, existing history files are retained, and graph range choices adapt to the available samples.\r\n\r\n### ✨ Improvements\r\n- **Adaptive Startup**: Restore downloads ahead of seeds, then bring seeds online gradually according to load and memory pressure. Startup progress is visible, and repeated restore failures no longer hold up healthy seeds indefinitely.\r\n- **Dashboard and Help**: Clarify chart labels and units, reorganize swarm, disk, and tuning statistics, and improve optional sections and Help navigation in compact layouts.\r\n- **macOS Memory Reporting**: Report the app's physical footprint for memory statistics, providing a more representative view of its memory use.\r\n- **Peer Tracking**: Bound session peer tracking and count identified peers once in session statistics.\r\n\r\n### 🐛 Bug Fixes\r\n- **Peer Disconnections and Retries**: Ensure requested peer disconnects complete and expire connection-failure records after their backoff so stale failures do not indefinitely affect reconnection.\r\n- **Location Picker**: Follow directory symlinks when navigating to a download location.\r\n- **Torrent Parsing**: Bound bencode nesting before recursive deserialization to prevent stack exhaustion on deeply nested torrent data.\r\n- **Browser Graph Navigation**: Use a browser-compatible clock when navigating graph history."
+  "body": "## Standard Builds (Recommended)\r\n* **macOS Universal:** [superseedr-v1.0.17-universal-macos.pkg](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-v1.0.17-universal-macos.pkg)\r\n* **Linux Debian (amd64):** [superseedr_v1.0.17_amd64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_amd64.deb)\r\n* **Linux Debian (arm64):** [superseedr_v1.0.17_arm64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_arm64.deb)\r\n* **Linux Tarball (amd64):** [superseedr_v1.0.17_linux-amd64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_linux-amd64.tar.gz)\r\n* **Linux Tarball (arm64):** [superseedr_v1.0.17_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_linux-arm64.tar.gz)\r\n* **Windows (EXE, no admin):** [superseedr-v1.0.17-x64-setup.exe](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-v1.0.17-x64-setup.exe)\r\n* **Windows (MSI):** [superseedr_v1.0.17_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_x64_en-US.msi)\r\n---\r\n## Private Builds (Advanced)\r\nThese builds do not contain PEX or DHT in the final binary. Not recommended for normal users unless you have privacy requirements.\r\n\r\n* **macOS Universal:** [superseedr-v1.0.17-private-universal-macos.pkg](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-v1.0.17-private-universal-macos.pkg)\r\n* **Linux Debian (amd64):** [superseedr-private_v1.0.17_amd64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-private_v1.0.17_amd64.deb)\r\n* **Linux Debian (arm64):** [superseedr-private_v1.0.17_arm64.deb](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-private_v1.0.17_arm64.deb)\r\n* **Linux Tarball (amd64):** [superseedr-private_v1.0.17_linux-amd64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-private_v1.0.17_linux-amd64.tar.gz)\r\n* **Linux Tarball (arm64):** [superseedr-private_v1.0.17_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-private_v1.0.17_linux-arm64.tar.gz)\r\n* **Windows (EXE, no admin):** [superseedr-private-v1.0.17-x64-setup.exe](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-private-v1.0.17-x64-setup.exe)\r\n* **Windows (MSI):** [superseedr-private_v1.0.17_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-private_v1.0.17_x64_en-US.msi)\r\n---\r\n<img width=\"320\" height=\"353\" alt=\"Screenshot 2026-11-05 at 11 37 23 PM\" src=\"https://github.com/user-attachments/assets/a3b1b3b3-a77c-41b3-9a64-5773220c92af\" />\r\n\r\n## Release v1.0.17\r\n### 🚀 New Features\r\n- **Session Receipt**: Show a themed summary at shutdown with final transfer and session statistics, including peer activity.\r\n- **Graph History Controls**: Disable loading and saving network and activity graph history with `persist_graph_history = false`. Live graphs still work, existing history files are retained, and graph range choices adapt to the available samples.\r\n\r\n### ✨ Improvements\r\n- **Adaptive Startup**: Restore downloads ahead of seeds, then bring seeds online gradually according to load and memory pressure. Startup progress is visible, and repeated restore failures no longer hold up healthy seeds indefinitely.\r\n- **Dashboard and Help**: Clarify chart labels and units, reorganize swarm, disk, and tuning statistics, and improve optional sections and Help navigation in compact layouts.\r\n- **macOS Memory Reporting**: Report the app's physical footprint for memory statistics, providing a more representative view of its memory use.\r\n- **Peer Tracking**: Bound session peer tracking and count identified peers once in session statistics.\r\n\r\n### 🐛 Bug Fixes\r\n- **Peer Disconnections and Retries**: Ensure requested peer disconnects complete and expire connection-failure records after their backoff so stale failures do not indefinitely affect reconnection.\r\n- **Location Picker**: Follow directory symlinks when navigating to a download location.\r\n- **Torrent Parsing**: Bound bencode nesting before recursive deserialization to prevent stack exhaustion on deeply nested torrent data.\r\n- **Browser Graph Navigation**: Use a browser-compatible clock when navigating graph history.",
+  "reactions": {
+    "url": "https://api.github.com/repos/Jagalite/superseedr/releases/436120138/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
