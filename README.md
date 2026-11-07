@@ -41,18 +41,18 @@ Total: **225,683** lines of code across **394** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 163 · **Open PRs**: 12 · **Closed issues**: 102 · **Open issues**: 18 · **Commits**: 2121
+- **Releases**: 61 · **Merged PRs**: 164 · **Open PRs**: 11 · **Closed issues**: 102 · **Open issues**: 18 · **Commits**: 2123
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 16 | 3 | 4 | 2 | 64 |
-| last60d | 2026-09-07 | 3 | 20 | 5 | 5 | 2 | 82 |
-| 90d | 2026-08-08 | 4 | 38 | 11 | 13 | 9 | 280 |
-| last180d | 2026-05-10 | 11 | 55 | 12 | 23 | 12 | 537 |
-| 360d | 2025-11-11 | 38 | 110 | 12 | 99 | 17 | 1649 |
-| last720d | 2024-11-16 | 61 | 163 | 12 | 102 | 18 | 2121 |
+| 30d | 2026-10-08 | 2 | 16 | 2 | 3 | 2 | 65 |
+| last60d | 2026-09-08 | 3 | 20 | 4 | 5 | 2 | 83 |
+| 90d | 2026-08-09 | 4 | 39 | 10 | 13 | 9 | 281 |
+| last180d | 2026-05-11 | 10 | 56 | 11 | 23 | 12 | 538 |
+| 360d | 2025-11-12 | 37 | 111 | 11 | 99 | 17 | 1650 |
+| last720d | 2024-11-17 | 61 | 164 | 11 | 102 | 18 | 2123 |
 
 ## Release assets
 
@@ -75,12 +75,12 @@ Total: **225,683** lines of code across **394** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/superseedr). **4** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/superseedr). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.0.16` | ✅ latest |
-| Void | `1.0.16` | ✅ latest |
+| Homebrew | `1.0.17` | ✅ latest |
+| Void | `1.0.16` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -91,4 +91,4 @@ Install metadata for superseedr lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:48:52Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:04:48Z._
