@@ -1,4 +1,16 @@
 - repo: aur
+  srcname: superseedr
+  binname: superseedr
+  visiblename: superseedr
+  version: 1.0.17
+  origversion: 1.0.17-1
+  status: newest
+  summary: A BitTorrent Client in your Terminal
+  maintainers:
+    - txtsd@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: aur
   srcname: superseedr-bin
   binname: superseedr-bin
   visiblename: superseedr-bin
@@ -8,18 +20,6 @@
   summary: A BitTorrent Client in your Terminal
   maintainers:
     - dominiquini@aur
-  licenses:
-    - GPL-3.0-or-later
-- repo: aur
-  srcname: superseedr
-  binname: superseedr
-  visiblename: superseedr
-  version: 1.0.16
-  origversion: 1.0.16-1
-  status: outdated
-  summary: A BitTorrent Client in your Terminal
-  maintainers:
-    - txtsd@aur
   licenses:
     - GPL-3.0-or-later
 - repo: homebrew
