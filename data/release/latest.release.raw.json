@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21109201,
       "digest": "sha256:600e10ca97ed56a9323c53cf78e22a7a971c74953a70a42dcb748f878292d9a8",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-11-06T05:07:36Z",
       "updated_at": "2026-11-06T05:07:38Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-v1.0.17-universal-macos.pkg"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 9874661,
       "digest": "sha256:f616e7a1aeaa97465f89e3df7b52742e8109b5db9affd9b735110c726118f455",
-      "download_count": 26,
+      "download_count": 32,
       "created_at": "2026-11-06T05:07:36Z",
       "updated_at": "2026-11-06T05:07:37Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr-v1.0.17-x64-setup.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 10885162,
       "digest": "sha256:fd630e3215b9e29e9aff99917fd74e4b86a076ceecb91bae6a4a260f194f9a70",
-      "download_count": 44,
+      "download_count": 50,
       "created_at": "2026-11-06T05:07:36Z",
       "updated_at": "2026-11-06T05:07:37Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_linux-amd64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 11870208,
       "digest": "sha256:9720d6fce43b4e3d70e99248e5a82faa50e386d4ec9bc922e83865412ad18923",
-      "download_count": 21,
+      "download_count": 23,
       "created_at": "2026-11-06T05:07:36Z",
       "updated_at": "2026-11-06T05:07:37Z",
       "browser_download_url": "https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_x64_en-US.msi"
