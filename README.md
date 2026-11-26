@@ -37,7 +37,7 @@ Total: **225,683** lines of code across **394** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 686 · **Forks**: 28 · **Open issues**: 122 · **Contributors**: 6
+- **Stars**: 687 · **Forks**: 28 · **Open issues**: 122 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **225,683** lines of code across **394** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 10 | 2 | 2 | 2 | 36 |
-| last60d | 2026-09-26 | 2 | 17 | 4 | 5 | 3 | 66 |
-| 90d | 2026-08-27 | 4 | 35 | 4 | 9 | 4 | 182 |
-| last180d | 2026-05-29 | 10 | 54 | 11 | 24 | 13 | 490 |
-| 360d | 2025-11-30 | 30 | 99 | 11 | 80 | 18 | 1484 |
-| last720d | 2024-12-05 | 61 | 164 | 11 | 103 | 19 | 2123 |
+| 30d | 2026-10-27 | 1 | 10 | 2 | 1 | 2 | 0 |
+| last60d | 2026-09-27 | 2 | 17 | 4 | 5 | 3 | 0 |
+| 90d | 2026-08-28 | 4 | 35 | 4 | 7 | 4 | 0 |
+| last180d | 2026-05-30 | 10 | 54 | 11 | 24 | 13 | 0 |
+| 360d | 2025-12-01 | 30 | 99 | 11 | 78 | 18 | 0 |
+| last720d | 2024-12-06 | 61 | 164 | 11 | 103 | 19 | 2123 |
 
 ## Release assets
 
@@ -73,6 +73,15 @@ Total: **225,683** lines of code across **394** files in the top 5 languages.
 | [superseedr_v1.0.17_linux-arm64.tar.gz](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_linux-arm64.tar.gz) | 9.7 MiB | `native/linux/arm64` |
 | [superseedr_v1.0.17_x64_en-US.msi](https://github.com/Jagalite/superseedr/releases/download/v1.0.17/superseedr_v1.0.17_x64_en-US.msi) | 11.3 MiB | `other` |
 
+## Distribution status
+
+Reported by **5** distros on [repology.org](https://repology.org/project/superseedr). **3** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.0.17` | ✅ latest |
+| Void | `1.0.16` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for superseedr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `superseedr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +91,4 @@ Install metadata for superseedr lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:56:10Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:31:13Z._
